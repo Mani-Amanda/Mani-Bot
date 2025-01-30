@@ -1,0 +1,37 @@
+apple: shelf 1
+banana: shelf 1
+orange: shelf 2
+milk: shelf 3
+bread: shelf 4
+eggs: shelf 5
+cheese: shelf 6
+butter: shelf 6
+yogurt: shelf 7
+chicken: shelf 8
+beef: shelf 9
+pork: shelf 10
+fish: shelf 11
+rice: shelf 12
+pasta: shelf 13
+flour: shelf 14
+sugar: shelf 15
+salt: shelf 16
+pepper: shelf 17
+oil: shelf 18
+vinegar: shelf 19
+cereal: shelf 20
+coffee: shelf 21
+tea: shelf 22
+juice: shelf 23
+water: shelf 24
+soda: shelf 25
+chips: shelf 26
+cookies: shelf 27
+chocolate: shelf 28
+candy: shelf 29
+detergent: shelf 30
+soap: shelf 31
+shampoo: shelf 32
+toothpaste: shelf 33
+toilet paper: shelf 34
+paper towels: shelf 35
